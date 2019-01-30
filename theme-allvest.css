@@ -1,0 +1,24 @@
+:root {
+  --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  --font-color: #000000;
+
+  --header-background-color: #FFFFFF;
+  --header-font-color: #000000;
+
+  --footer-background-color: #FFFFFF;
+  --footer-font-color: #FFFF;
+
+  --link-primary-color: #CFAA42;
+  --link-hover-color: #CFAA42;
+
+  --button-primary-background-color: #CFAA42;
+  --button-primary-color: #FFFFFF;
+
+  --button-secondary-border-color: #000000;
+  --button-secondary-color: #000000;
+
+  --button-disabled-background-color: ##D5D1CC;
+  --button-disabled-color: #FFFFFF;
+
+  --button-border-radius: 25px;
+}
